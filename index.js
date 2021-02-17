@@ -1,5 +1,3 @@
 console.error("help!")
 console.log("i wanna log!")
-consol.warn("warninggggg")
-console.warn('warninggggg')
-console.warn("warningg")
+
